@@ -23,8 +23,8 @@ namespace OnlineShopping.Controllers
         
 
         #region Admin Change Password ...
-        /// <summary>
-        /// Change Password
+        // <summary>
+        // Change Password
         /// </summary>
         /// <returns></returns>
         [HttpGet]
